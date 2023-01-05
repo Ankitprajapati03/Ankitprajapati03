@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning aws and android
 - 💞️ I’m looking to collaborate on new technology
 - 📫 How to reach me ... 
+this is my first  git project...
 
 <!---
 Ankitprajapati03/Ankitprajapati03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
